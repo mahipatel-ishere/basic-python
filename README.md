@@ -1,7 +1,7 @@
 # Basic Python Programs :
 This repository contains my Python practice work done using Jupyter Notebook.
 
-# TOPIC COVERED :
+# TOPICS COVERED :
 - Python-basics
 - Strings
 - Tuples
