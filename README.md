@@ -12,5 +12,5 @@ This repository contains my Python practice work done using Jupyter Notebook.
 - Python
 - Jupyter Notbook
 
-This repository is part of my learning journey .
-Also it is for internship preparation.
+This repository is part of my learning journey.
+
